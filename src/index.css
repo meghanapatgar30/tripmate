@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-charcoal: #2A2A2A;
+    --brand-silver: #C0C0C0;
+    --brand-red: #E10600;
+    --brand-red-hover: #C40500;
+    --brand-soft-white: #F5F5F5;
+  }
+  
+  body {
+    background-color: #F5F5F5;
+    color: #2A2A2A;
+  }
+}
